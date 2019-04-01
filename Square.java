@@ -13,6 +13,7 @@ public class Square extends Shape{
 	}
 
 	public double circumference() {
+		//technically 2*width+2*height ;)
 		return 4*width;
 	}
 
